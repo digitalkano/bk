@@ -1,0 +1,20 @@
+{
+"error":false,
+"music":true,
+"AppSetting":true,
+"am_appopen":"ca-app-pub-3940256099942544/3419835294",
+"am_inter":"ca-app-pub-3940256099942544/1033173712",
+"am_banner":"	ca-app-pub-3940256099942544/6300978111",
+"am_native":"ca-app-pub-3940256099942544/2247696110",
+"data": [
+{
+"name":"",
+"playstorLink":"",
+"imgURL":""
+},
+{
+"name": "Play Cricket Quiz & Win Now",
+"playstorLink": "https://1373.win.qureka.com",
+"imgURL": "https://myplayquize.s3.us-west-1.amazonaws.com/8.png"
+}]
+}
