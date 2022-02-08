@@ -1,37 +1,23 @@
 {
-    "Response": "Success",
-    "DataArray": {
-        "Moreapps": [
-            {
-                "app_name": "",
-                "app_logo": "",
-                "app_link": ""
-            }
-        ],
-        "AppSetting": [
-            {
-                "appislive": "yes",
-                "am_inter": "ca-app-pub-3940256099942544/1033173712",
-                "am_native": "ca-app-pub-3940256099942544/2247696110",
-                "am_banner": "ca-app-pub-3940256099942544/6300978111",
-                "am_appopen": "ca-app-pub-3940256099942544/3419835294",
-                "am_back_appopen": "ca-app-pub-3940256099942544/3419835294",
-                "am_back_inter": "ca-app-pub-3940256099942544/1033173712",
-                "am_reward": "ca-app-pub-3940256099942544/5224354917",
-                "fb_inter": "YOUR_PLACEMENT_ID",
-                "fb_native": "YOUR_PLACEMENT_ID",
-                "fb_banner": "YOUR_PLACEMENT_ID",
-                "fb_nativebanner": "YOUR_PLACEMENT_ID",
-                "fb_reward": "YOUR_PLACEMENT_ID",
-                "ads_prioritytype": "fix",
-                "ads_priority": "0,1",
-                "showads": "yes",
-                "clickcount": "0",
-                "appopenshow": "yes",
-                "addialogshow": "none",
-                "testmode": "no",
-                "addextra": "match,https://874.win.qureka.com/,https://www.google.co.in/?gws_rd=ssl,no,on"
-            }
-        ]
-    }
+   "AppSetting":[
+      {
+         "id":"",
+         "app_version":1,
+         "app_link":"",
+         "ad_type":"AdMOB",
+         "ad_status":"on",
+         "admob_aap_id":"",
+         "admob_openad":"/6499/example/app-open",
+         "admob_inter":"/6499/example/interstitial",
+         "admob_inter1":"/6499/example/interstitial",
+         "admob_back_inter":"/6499/example/interstitial",
+         "admob_back_inter1":"/6499/example/interstitial",
+         "admob_banner":"/6499/example/banner",
+         "admob_native":"/6499/example/native",
+         "admob_native_banner":"/6499/example/native",
+         "qureka_link":"",
+         "admobrewardedads":"",
+         "isSplash":"true"
+      }
+   ]
 }
