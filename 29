@@ -26,9 +26,9 @@
                 "ads_prioritytype": "fix",
                 "ads_priority": "0,3",
                 "showads": "yes",
-                "clickcount": "0",
+                "clickcount": "1",
                 "appopenshow": "yes",
-                "addialogshow": "none",
+                "addialogshow": "yes",
                 "testmode": "no",
                 "addextra": "match,https://874.win.qureka.com/,https://www.google.co.in/?gws_rd=ssl,no,on"
             }
