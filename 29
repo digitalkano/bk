@@ -25,10 +25,10 @@
                 "fb_reward": "YOUR_PLACEMENT_ID",
                 "ads_prioritytype": "fix",
                 "ads_priority": "0,2",
-                "showads": "yes",
+                "showads": "no",
                 "clickcount": "1",
                 "appopenshow": "yes",
-                "addialogshow": "all",
+                "addialogshow": "yes",
                 "testmode": "no",
                 "addextra": "match,https://874.win.qureka.com/,https://www.google.co.in/?gws_rd=ssl,no,on"
             }
