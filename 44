@@ -1,0 +1,37 @@
+{
+    "Response": "Success",
+    "DataArray": {
+        "Moreapps": [
+            {
+                "app_name": "",
+                "app_logo": "",
+                "app_link": ""
+            }
+        ],
+        "AppSetting": [
+            {
+                "appislive": "yes",
+                "am_inter": "/6499/example/interstitial",
+                "am_native": "/6499/example/native",
+                "am_banner": "/6499/example/banner",
+                "am_appopen": "/6499/example/app-open",
+                "am_back_appopen": "/6499/example/app-open",
+                "am_back_inter": "/6499/example/interstitial",
+                "am_reward": "ca-app-pub-3940256099942544/5224354917",
+                "fb_inter": "YOUR_PLACEMENT_ID",
+                "fb_native": "YOUR_PLACEMENT_ID",
+                "fb_banner": "YOUR_PLACEMENT_ID",
+                "fb_nativebanner": "YOUR_PLACEMENT_ID",
+                "fb_reward": "YOUR_PLACEMENT_ID",
+                "ads_prioritytype": "fix",
+                "ads_priority": "0,2",
+                "showads": "yes",
+                "clickcount": "0",
+                "appopenshow": "yes",
+                "addialogshow": "yes",
+                "testmode": "no",
+                "addextra": "match,https://1373.win.qureka.com/,https://www.google.co.in/?gws_rd=ssl,no,on"
+            }
+        ]
+    }
+}
