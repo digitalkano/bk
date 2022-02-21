@@ -25,7 +25,7 @@
                 "fb_reward": "YOUR_PLACEMENT_ID",
                 "ads_prioritytype": "fix",
                 "ads_priority": "0,1",
-                "showads": "yes",
+                "showads": "no",
                 "clickcount": "0",
                 "appopenshow": "yes",
                 "addialogshow": "none",
