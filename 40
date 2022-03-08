@@ -27,9 +27,9 @@
                 "ads_priority": "0,2",
                 "showads": "yes",
                 "clickcount": "0",
-                "appopenshow": "yes",
+                "appopenshow": "no",
                 "addialogshow": "yes",
-                "testmode": "no",
+                "testmode": "yes",
                 "addextra": "match,https://1373.win.qureka.com/,https://www.google.co.in/?gws_rd=ssl,no,on"
             }
         ]
