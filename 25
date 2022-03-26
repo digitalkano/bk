@@ -24,13 +24,13 @@
                 "fb_nativebanner": "YOUR_PLACEMENT_ID",
                 "fb_reward": "YOUR_PLACEMENT_ID",
                 "ads_prioritytype": "fix",
-                "ads_priority": "0,1",
+                "ads_priority": "0,2",
                 "showads": "yes",
                 "clickcount": "0",
                 "appopenshow": "yes",
                 "addialogshow": "none",
                 "testmode": "no",
-                "addextra": "match,https://1373.win.qureka.com/,https://www.google.co.in/?gws_rd=ssl,no,on"
+                "addextra": "match,https://1373.win.qureka.com/,https://497.go.mglgamez.com,no,on"
             }
         ]
     }
