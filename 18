@@ -11,12 +11,12 @@
         "AppSetting": [
             {
                 "appislive": "yes",
-                "am_inter": "/22660434831/Infinity_freetalk.randomvideocall.globalcall_inter",
-                "am_native": "/22660434831/Infinity_freetalk.randomvideocall.globalcall_native",
-                "am_banner": "/22660434831/Infinity_freetalk.randomvideocall.globalcall_banner",
-                "am_appopen": "/22660434831/Infinity_freetalk.randomvideocall.globalcall_open",
-                "am_back_appopen": "/22660434831/Infinity_freetalk.randomvideocall.globalcall_open",
-                "am_back_inter": "/22660434831/Infinity_freetalk.randomvideocall.globalcall_inter",
+                "am_inter": "",
+                "am_native": "",
+                "am_banner": "",
+                "am_appopen": "",
+                "am_back_appopen": "",
+                "am_back_inter": "",
                 "am_reward": "ca-app-pub-3940256099942544/5224354917",
                 "fb_inter": "YOUR_PLACEMENT_ID",
                 "fb_native": "YOUR_PLACEMENT_ID",
