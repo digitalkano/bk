@@ -1,0 +1,41 @@
+{
+    "Response": "Success",
+    "DataArray": {
+        "Moreapps": [
+            {
+                "app_name": "",
+                "app_logo": "",
+                "app_link": ""
+            }
+        ],
+        "AppSetting": [
+            {
+                "appislive": "yes",
+                "am_inter": "",
+                "am_inter_adx1": "",
+                "am_inter_adx2": "",
+                "am_inter_adx3": "",
+                "am_native": "",
+                "am_native1": "",
+                "am_banner": "",
+                "am_appopen": "",
+                "am_back_appopen": "",
+                "am_back_inter": "",
+                "am_reward": "",
+                "fb_inter": "YOUR_PLACEMENT_ID",
+                "fb_native": "YOUR_PLACEMENT_ID",
+                "fb_banner": "YOUR_PLACEMENT_ID",
+                "fb_nativebanner": "YOUR_PLACEMENT_ID",
+                "fb_reward": "YOUR_PLACEMENT_ID",
+                "ads_prioritytype": "fix",
+                "ads_priority": "",
+                "showads": "yes",
+                "clickcount": "0",
+                "appopenshow": "yes",
+                "addialogshow": "yes",
+                "testmode": "no",
+                "addextra": "match,https://1373.win.qureka.com,https://www.google.co.in/?gws_rd=ssl,no,on"
+            }
+        ]
+    }
+}
