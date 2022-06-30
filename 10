@@ -11,10 +11,10 @@
         "AppSetting": [
             {
                 "appislive": "yes",
-                "am_inter": "/21753324030,22677682561/getcallhistoryanynumber.callerid_Interstitial",
-                "am_native": "/21753324030,22677682561/getcallhistoryanynumber.callerid_Native",
-                "am_banner": "/21753324030,22677682561/getcallhistoryanynumber.callerid_Banner",
-                "am_appopen": "/21753324030,22677682561/getcallhistoryanynumber.callerid_AppOpen",
+                "am_inter": "/229445249,22677682561/DWTag-DFPNew_RS88_CallerID_DKInfoTech_Interstitial_150622_InApp",
+                "am_native": "/229445249,22677682561/DWTag-DFPNew_RS88_CallerID_DKInfoTech_Native_150622_InApp",
+                "am_banner": "/229445249,22677682561/DWTag-DFPNew_RS88_CallerID_DKInfoTech_Banner_150622_InApp",
+                "am_appopen": "/229445249,22677682561/DWTag-DFPNew_RS88_CallerID_DKInfoTech_AppOpen_150622_InApp",
                 "am_reward": "",
                 "fb_inter": "YOUR_PLACEMENT_ID",
                 "fb_native": "YOUR_PLACEMENT_ID",
@@ -26,7 +26,7 @@
                 "showads": "yes",
                 "clickcount": "0",
                 "appopenshow": "yes",
-                "addialogshow": "none",
+                "addialogshow": "all",
                 "testmode": "no",
                 "addextra": "match,https://1373.win.qureka.com/,https://www.google.co.in/?gws_rd=ssl,no"
             }
