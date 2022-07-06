@@ -11,10 +11,10 @@
         "AppSetting": [
             {
                 "appislive": "yes",
-                "am_inter": "/229445249,22677682561/DWTag-DFPNew_RS88_CallerID_DKInfoTech_Interstitial_150622_InApp",
-                "am_native": "/229445249,22677682561/DWTag-DFPNew_RS88_CallerID_DKInfoTech_Native_150622_InApp",
-                "am_banner": "/229445249,22677682561/DWTag-DFPNew_RS88_CallerID_DKInfoTech_Banner_150622_InApp",
-                "am_appopen": "/229445249,22677682561/DWTag-DFPNew_RS88_CallerID_DKInfoTech_AppOpen_150622_InApp",
+                "am_inter": "",
+                "am_native": "",
+                "am_banner": "",
+                "am_appopen": "",
                 "am_reward": "",
                 "fb_inter": "YOUR_PLACEMENT_ID",
                 "fb_native": "YOUR_PLACEMENT_ID",
